@@ -9,6 +9,79 @@
 	6. Defect Reporting & Tracking
 	7. Test Closure
 
+ # Swag Labs - Feature List
+ - Home Screen
+	- Username
+	- Password 
+	- Login
+-  Inventory
+	- Hamburger Icon
+		-  Close icone
+		-  Alll item
+		-  About
+		-  Logout 
+		-  Reset App state
+- Products (text)
+  	- Filter icon + Sort (dropdown)
+			 -  Name (A to Z) (default)
+			 -  Name (Z to A)
+			 -  Price (low to high)
+			 -  Price (high to low)
+		- Two column products list (6 products)
+			- Image (link)
+			- Product Name (link)
+			- Description
+			- Price
+			- Add to cart (button)
+		Social Links Icons 
+			 -Twitter
+			 - Facebook
+			 - LinkedIn
+	Inventory Item | Individual Product Page
+		- Back to products (with a back arrow)
+		- Image (bigger size ???)- Product Name
+		- Description
+		- Price
+		- Add to cart (button) Add to Cart
+		- Remove (text) and color
+Your Cart
+	- QTY
+	- Description
+	- Qty box (non-editable)
+	- Product Name (link)
+	- Description\
+	- Price
+	- Remove (button)
+	- Continue Shopping (button) takes to inventory page
+	- Checkout (button)
+ Checkout: Your Information
+	 -first Name
+	 - Last Name 
+	 - Zip/Postal Code
+	 - Cancel (redirects to your cart)
+	 - Continue
+	Checkout: Overview 
+	-QTY
+	- Description
+	- Qty box (non-editable)
+	- Product Name (link)-
+	- Description
+	- Price
+Payment Information 
+	SauceCard 
+	Shipping Information 
+		Free Pony Express Delivery!
+		- Price Total
+			- Item total: $15.99 
+			- Tax: $1.28
+		- Total: $17.27
+		- Cancel (button) leads to inventory
+		- Finish (button) takes to Checkout complete
+		- Checkout: Complete!
+Icon - a green tick
+- Static text: Thank you for your order! 
+- Your order has been dispatched, and will arrive just as fast as the pony can get there!
+- Back Home (button)
 ## Technologies Used
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
